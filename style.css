@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+
+    width: 800px;
+    height: 500px;
+    border: 5px solid black;
+}
+.br{
+    background: #18a2b8;
+    height: 150px;
+    padding-left: 20px;
+}
+.br img{
+    height: 90px;
+    position: absolute;
+    top: 100px;
+}
+.wr{
+    /* background-color: yellow; */
+    padding-left: 30px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+.name{
+    padding-top: 15px;
+}
+.location{
+    display: flex;
+    justify-content: left;
+}
+.location img{
+    height: 25px;
+}
+.profile{
+    justify-content: left;
+    display: flex;
+}
+.profile img{
+    height: 20px;
+}
